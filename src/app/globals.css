@@ -1,0 +1,13 @@
+:root {
+  --bg: rgb(17, 1, 32);
+  --text: white;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
