@@ -1,16 +1,4 @@
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
-```
+This is a simple blog app built using NextJS enabling auth, creation, retrivel and deletion of created posts. This app has been built of learning purposes.
 
 
 run the development server:
